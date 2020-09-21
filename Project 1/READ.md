@@ -11,3 +11,7 @@ There are 236 observations in total.</p>
 
 ### Model
 <p>The model I used is a linear regression model.</p>
+
+
+### See Summary + Report
+<p>For a more indepth discussion of the project, please see the Summary and Report.</p>
