@@ -9,3 +9,5 @@ There are five (5) predictors in the dataset (Producer Price Index for Rail Tran
 Price of Gold, Consumer Confidence Indexm and the Consumer Price Index) with observations beginning in January 2001 and ending in August of 2020.  
 There are 236 observations in total.</p>  
 
+### Model
+<p>The model I used is a linear regression model.</p>
