@@ -18,8 +18,8 @@
     <li><b>Size:</b>  7804x1725 -- 7804 schools with 1725 Data Elements<\li>
     <li><b>Suitability:</b> The data set is a good source for solving this problem because it has a comprehensive list of post-secondary schools and a fairly large set of real number data elements that can be used to group the schools.<\li>
         <li><b>Data Dictionary:</b> The Data Dictionary for the data elements used in the project can be found at the end of the Exploratory Data Analysis workbook.</li></ul>
-    <li>College Data: https://drive.google.com/file/d/1L9O1w-0SnptOBHs_3dEf1mnF_MCQv9QX/view?usp=sharing</li>
-        <li>College Data Dictionary: https://drive.google.com/file/d/1dg_QKBMiAqVCXCpL8U11CIy0wIvVr7mF/view?usp=sharing</li>
+    <li>CollegeScorecard.csv: https://drive.google.com/file/d/1L9O1w-0SnptOBHs_3dEf1mnF_MCQv9QX/view?usp=sharing</li>
+        <li>CollegeScorecardDataDictionary.csv: https://drive.google.com/file/d/1dg_QKBMiAqVCXCpL8U11CIy0wIvVr7mF/view?usp=sharing</li>
         
 
 ### Table of Contents
