@@ -1,11 +1,11 @@
 ### Overview:
-<p>This is a hybrid Convolutional-Dense Neural Network project that trains a model capable of distinguishing among images of the Simpson Family members.  The project encompasses downloading data directly from Kaggle, creating the directory structures needed to house the data in a way that can be used in by the Neural Network, Preprocessing the Data,Training the Model, and Validating the result.  The takeaway here is that with a little help and study, an intrepid novice data scientist is capable of training a reasonably good classification alogorithm.  With a little more practice, a model like this could be used at work to save time and refocus the efforts of team members on my analytical tasks.</p>
+<p>This is a hybrid Convolutional-Dense Neural Network project that trains a model capable of distinguishing among images of the Simpson Family members.  The project encompasses downloading data directly from Kaggle, creating the directory structures needed to house the data in a way that can be used by the Neural Network, Preprocessing the Data,Training the Model, and Validating the result.  The takeaway here is that with a little help and study, a novice data scientist is capable of training a reasonably good classification alogorithm.  With a little more practice, a model like this could be used at work to save time and refocus the efforts of team members on my analytical tasks.</p>
 
 ### Goals:
 <ol>
 <li>Gain Experience with Neural Networks</li>
 <li>Create a model that classifies Simpson Family Members well</li>
-<li>Work on Google Colab</li>
+<li>Work in Google Colab</li>
 </ol>
 
 ### Motivation and Background
