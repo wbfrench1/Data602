@@ -11,6 +11,10 @@
 ### Motivation and Background
 <p>The motivation for this project was to try out for myself Convolutional Neural Networks.  I had been watching the Professor do the work in class, and I wanted an opportunity to give it a shot for myself.  The result here is something that performs reasonably well, correctly identifying a simpson family member 80% of the time, when the random probability is 20%.  With some additional work this could be applied in the work setting.</p>
 
+### Notebook Location
+<p>Note that both the Final and the Working Colab Notebooks are 11mb, which is too large to share in github.  The below link leads to my google drive.
+https://drive.google.com/drive/folders/1YmJveBOd7oDE8n-LROPeSE5vniUZ6UM-?usp=sharing
+    
 ### Data
 <ul><li><b>Source:</b>  Kaggle </li>
     <li><b>Hyperlink:</b> https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/download</li>
